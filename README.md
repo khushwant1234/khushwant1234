@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Data Structures & Algorithms.<br>Ask me about the MERN stack and NextJS.<br><br>👨‍💻 All of my projects are available at https://khushwantsingh.vercel.app/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
+I'm currently learning Data Structures & Algorithms.<br>Ask me about the MERN stack and NextJS.<br><br>👨‍💻 All of my projects are available at https://khushwantsingh.vercel.app/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
 
 
 ## 🌐 Socials:
