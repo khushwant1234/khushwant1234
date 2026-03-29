@@ -4,7 +4,7 @@ I enjoy solving complex problems and building reliable, user-centric products.<b
 
 Currently exploring AI applications, RAG pipelines, and cloud (Google Cloud).<br>
 
-Outside tech: music, Clash Royale, and doodling.<br><br>👨‍💻 All of my projects are available at https://khushwant.tech/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
+Outside tech: music, Clash Royale, and doodling.<br><br>👨‍💻 All of my projects are available at https://khushwant.tech/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://khushwant.tech/resume
 
 
 ## 🌐 Socials:
