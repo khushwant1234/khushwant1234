@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently learning Data Structures & Algorithms.<br>Ask me about the MERN stack and NextJS.<br><br>👨‍💻 All of my projects are available at https://khushwantsingh.vercel.app/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
+Full-stack developer focused on backend systems, APIs, and scalable web services.<br><br>
+I enjoy solving complex problems and building reliable, user-centric products.<br><br>
+
+Currently exploring AI applications, RAG pipelines, and cloud (Google Cloud).<br><br>
+
+Outside tech: music, Clash Royale, and doodling.<br><br>👨‍💻 All of my projects are available at https://khushwant.tech/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
 
 
 ## 🌐 Socials:
