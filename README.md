@@ -1,8 +1,8 @@
 # 💫 About Me:
-Full-stack developer focused on backend systems, APIs, and scalable web services.<br><br>
-I enjoy solving complex problems and building reliable, user-centric products.<br><br>
+Full-stack developer focused on backend systems, APIs, and scalable web services.<br>
+I enjoy solving complex problems and building reliable, user-centric products.<br>
 
-Currently exploring AI applications, RAG pipelines, and cloud (Google Cloud).<br><br>
+Currently exploring AI applications, RAG pipelines, and cloud (Google Cloud).<br>
 
 Outside tech: music, Clash Royale, and doodling.<br><br>👨‍💻 All of my projects are available at https://khushwant.tech/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://drive.google.com/file/d/1xFKnoCCyXKo6OZKdsgrwkR05JS-1pEMm/view?usp=drive_link
 
