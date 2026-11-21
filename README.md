@@ -1,15 +1,91 @@
-# 💫 About Me:
-Full-stack developer focused on backend systems, APIs, and scalable web services.<br>
-I enjoy solving complex problems and building reliable, user-centric products.<br>
+```
+khushwant@khushwant-os ~ % cat hello.txt
+```
 
-Currently exploring AI applications, RAG pipelines, and cloud (Google Cloud).<br>
+I'm **Khushwant Singh**, an Electrical & Computer Engineering student based in **India**.
+I specialise in **building websites** and **FPGA‑based projects and prototypes**, with
+**2+ years** of web development and **about a year** of hands-on FPGA work.
 
-Outside tech: music, Clash Royale, and doodling.<br><br>👨‍💻 All of my projects are available at https://khushwant.tech/<br><br>📫 How to reach me khushwantsingh638@gmail.com<br><br>📄 Know about my experiences [RESUME] https://khushwant.tech/resume
+```
+khushwant@khushwant-os ~ % neofetch
+```
 
+```
+        /\_/\        khushwant@khushwant-os
+       ( o.o )       ----------------------
+        > ^ <        user        Khushwant Singh
+                     speciality  Building websites, and FPGA-based projects and prototypes
+                     study       B.Tech. ECE · Shiv Nadar University (2023 — 2027)
+                     next        IP Design Intern · Silicon Labs (Jan 2027)
+                     previous    Product Validation Trainee · Cadence
+                     location    India (IST, UTC+5:30)
+                     os          khushwant-os 1.0
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singh-khushwant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushwant638) 
+```
+khushwant@khushwant-os ~ % cat currently.txt
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| | |
+| --- | --- |
+| **at** | Final year ECE — Shiv Nadar University |
+| **next** | Intern, IP Design Team — Silicon Labs · 6 months, from January 2027 |
+| **recently** | Product Validation Trainee — Cadence Design Systems (DFT) |
+| **building** | A simpleRISC CPU from scratch in Verilog |
+| **learning** | FPGA systems · AI/ML systems |
 
+```
+khushwant@khushwant-os ~ % ls ~/projects
+```
+
+| | Project | What it is | Stack |
+| --- | --- | --- | --- |
+| 📁 | **FPGA Digital Storage Oscilloscope** | A real-time DSO on an Artix-7: XADC sampling at ~200 kSPS, edge triggering, double-buffered VGA output. Seven Verilog modules, no CPU. | Verilog · Vivado · XADC |
+| 📁 | **4×4 DRAM Array** | 1T1C cells and their peripheral circuits in Cadence Virtuoso, then a channel-length variation analysis. | Virtuoso · CMOS |
+| 📁 | [**Real-Time Waste Classification**](https://github.com/khushwant1234/EcoBin_SIH_APP) | A Raspberry Pi bin that sorts waste with an on-device CNN (97%, under 200 ms). I built the PWA and backend around it. | Next.js · Express · PostgreSQL |
+| 📁 | **InsightScholar** | A reputation-driven student platform: Q&A, mentoring, real-time chat and verified mentorship payments. | React · Express · MongoDB · Socket.io |
+| 📁 | **Breeze** | Event management and merch platform for Shiv Nadar University's annual fest. | Next.js · Supabase · PostgreSQL |
+| 📁 | [**Brewww**](https://github.com/khushwant1234/brewww) | A Chrome extension that turns Blackboard PDFs into shared, searchable study material. | React · Express · Gemini · RAG |
+| 📁 | [**Classroom Stalker**](https://github.com/XoXoHarsh/Classroom-Stalker) | A Chrome extension that sorts Google Classroom into lectures, assignments and announcements, and answers questions about them. | React · Express · MongoDB |
+
+```
+khushwant@khushwant-os ~ % git log --oneline ~/experience
+```
+
+```
+Jan 2027 · 6 mo     Intern, IP Design Team            Silicon Labs              (upcoming)
+May → Aug 2026      Product Validation Trainee, DFT   Cadence Design Systems
+Jun → Aug 2025      Software Engineer Intern          Arakoo.ai
+Jan → Apr 2025      Full-Stack Developer, freelance   Insight Scholar
+```
+
+- **Cadence** — regression-tested the Modus ATPG tool, ported ~200 DFT testcases from Genus to Innovus+, and built AI-assisted agents that converted and validated ~1,570 testcases.
+- **Arakoo.ai** — shipped a Next.js app on Cloud Run, streamed encrypted screen and audio under 350 ms with Ably and tRPC, and built a multi-agent system with a hybrid-search RAG pipeline on pgvector.
+
+```
+khushwant@khushwant-os ~ % cat stack.txt
+```
+
+```
+languages     Verilog  TCL  C++  C  JavaScript  TypeScript
+frontend      React  Next.js  Tailwind CSS  Framer Motion
+backend       Node.js  Express.js  REST APIs  tRPC
+database      PostgreSQL  MongoDB  MySQL  Supabase  pgvector
+ai / ml       RAG  Vector/Hybrid Search  Multi-Agent Systems
+hardware      Xilinx Vivado  Cadence Modus · Genus · Innovus+ · Virtuoso
+concepts      RTL Design  DFT  FPGA Design  ASIC Flow  CMOS  FSMs
+platforms     Linux  Git  Docker  Google Cloud  AWS
+```
+
+```
+khushwant@khushwant-os ~ % cat contact.txt
+```
+
+- **Portfolio** — [the desktop](https://www.khushwant.tech) (it works like a small computer; press ⌘K, or type `help` in the terminal)
+- **Blog** — [/blog](https://www.khushwant.tech/blog) · [RSS](https://www.khushwant.tech/feed.xml)
+- **Email** — [khushwantsingh638@gmail.com](mailto:khushwantsingh638@gmail.com)
+- **LinkedIn** — [linkedin.com/in/singh-khushwant](https://www.linkedin.com/in/singh-khushwant)
+
+```
+khushwant@khushwant-os ~ % █
+```
