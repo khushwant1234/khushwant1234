@@ -1,91 +1,21 @@
-```
-khushwant@khushwant-os ~ % cat hello.txt
-```
+# Hi, I'm Khushwant
 
-I'm **Khushwant Singh**, an Electrical & Computer Engineering student based in **India**.
-I specialise in **building websites** and **FPGA‑based projects and prototypes**, with
-**2+ years** of web development and **about a year** of hands-on FPGA work.
+I'm a final-year Electrical and Computer Engineering student at Shiv Nadar University, in India. I build things across software and hardware: websites and web apps on one side, FPGA and VLSI projects on the other.
 
-```
-khushwant@khushwant-os ~ % neofetch
-```
+I've been building for the web for a little over two years, and I've spent about a year on FPGA projects. Most recently I was a Product Validation Trainee at Cadence, working in DFT. In January 2027 I start a six-month internship with the IP Design team at Silicon Labs.
 
-```
-        /\_/\        khushwant@khushwant-os
-       ( o.o )       ----------------------
-        > ^ <        user        Khushwant Singh
-                     speciality  Building websites, and FPGA-based projects and prototypes
-                     study       B.Tech. ECE · Shiv Nadar University (2023 — 2027)
-                     next        IP Design Intern · Silicon Labs (Jan 2027)
-                     previous    Product Validation Trainee · Cadence
-                     location    India (IST, UTC+5:30)
-                     os          khushwant-os 1.0
-```
+I enjoy understanding how things work underneath the surface, whether that's an API, a database, an RTL design or a transistor-level circuit.
 
-```
-khushwant@khushwant-os ~ % cat currently.txt
-```
+[Portfolio](https://www.khushwant.tech) · [Email](mailto:khushwantsingh638@gmail.com) · [LinkedIn](https://www.linkedin.com/in/singh-khushwant)
 
-| | |
-| --- | --- |
-| **at** | Final year ECE — Shiv Nadar University |
-| **next** | Intern, IP Design Team — Silicon Labs · 6 months, from January 2027 |
-| **recently** | Product Validation Trainee — Cadence Design Systems (DFT) |
-| **building** | A simpleRISC CPU from scratch in Verilog |
-| **learning** | FPGA systems · AI/ML systems |
+## Right now
 
-```
-khushwant@khushwant-os ~ % ls ~/projects
-```
+- Building a simpleRISC CPU from scratch in Verilog
+- Writing the occasional post on [my blog](https://www.khushwant.tech/blog)
 
-| | Project | What it is | Stack |
-| --- | --- | --- | --- |
-| 📁 | **FPGA Digital Storage Oscilloscope** | A real-time DSO on an Artix-7: XADC sampling at ~200 kSPS, edge triggering, double-buffered VGA output. Seven Verilog modules, no CPU. | Verilog · Vivado · XADC |
-| 📁 | **4×4 DRAM Array** | 1T1C cells and their peripheral circuits in Cadence Virtuoso, then a channel-length variation analysis. | Virtuoso · CMOS |
-| 📁 | [**Real-Time Waste Classification**](https://github.com/khushwant1234/EcoBin_SIH_APP) | A Raspberry Pi bin that sorts waste with an on-device CNN (97%, under 200 ms). I built the PWA and backend around it. | Next.js · Express · PostgreSQL |
-| 📁 | **InsightScholar** | A reputation-driven student platform: Q&A, mentoring, real-time chat and verified mentorship payments. | React · Express · MongoDB · Socket.io |
-| 📁 | **Breeze** | Event management and merch platform for Shiv Nadar University's annual fest. | Next.js · Supabase · PostgreSQL |
-| 📁 | [**Brewww**](https://github.com/khushwant1234/brewww) | A Chrome extension that turns Blackboard PDFs into shared, searchable study material. | React · Express · Gemini · RAG |
-| 📁 | [**Classroom Stalker**](https://github.com/XoXoHarsh/Classroom-Stalker) | A Chrome extension that sorts Google Classroom into lectures, assignments and announcements, and answers questions about them. | React · Express · MongoDB |
+## Where I've worked
 
-```
-khushwant@khushwant-os ~ % git log --oneline ~/experience
-```
-
-```
-Jan 2027 · 6 mo     Intern, IP Design Team            Silicon Labs              (upcoming)
-May → Aug 2026      Product Validation Trainee, DFT   Cadence Design Systems
-Jun → Aug 2025      Software Engineer Intern          Arakoo.ai
-Jan → Apr 2025      Full-Stack Developer, freelance   Insight Scholar
-```
-
-- **Cadence** — regression-tested the Modus ATPG tool, ported ~200 DFT testcases from Genus to Innovus+, and built AI-assisted agents that converted and validated ~1,570 testcases.
-- **Arakoo.ai** — shipped a Next.js app on Cloud Run, streamed encrypted screen and audio under 350 ms with Ably and tRPC, and built a multi-agent system with a hybrid-search RAG pipeline on pgvector.
-
-```
-khushwant@khushwant-os ~ % cat stack.txt
-```
-
-```
-languages     Verilog  TCL  C++  C  JavaScript  TypeScript
-frontend      React  Next.js  Tailwind CSS  Framer Motion
-backend       Node.js  Express.js  REST APIs  tRPC
-database      PostgreSQL  MongoDB  MySQL  Supabase  pgvector
-ai / ml       RAG  Vector/Hybrid Search  Multi-Agent Systems
-hardware      Xilinx Vivado  Cadence Modus · Genus · Innovus+ · Virtuoso
-concepts      RTL Design  DFT  FPGA Design  ASIC Flow  CMOS  FSMs
-platforms     Linux  Git  Docker  Google Cloud  AWS
-```
-
-```
-khushwant@khushwant-os ~ % cat contact.txt
-```
-
-- **Portfolio** — [the desktop](https://www.khushwant.tech) (it works like a small computer; press ⌘K, or type `help` in the terminal)
-- **Blog** — [/blog](https://www.khushwant.tech/blog) · [RSS](https://www.khushwant.tech/feed.xml)
-- **Email** — [khushwantsingh638@gmail.com](mailto:khushwantsingh638@gmail.com)
-- **LinkedIn** — [linkedin.com/in/singh-khushwant](https://www.linkedin.com/in/singh-khushwant)
-
-```
-khushwant@khushwant-os ~ % █
-```
+- **Silicon Labs**, IP Design intern (starting January 2027)
+- **Cadence Design Systems**, Product Validation Trainee, DFT (May to August 2026). I ran regression tests on the Modus ATPG tool, ported about 200 DFT testcases from Genus to Innovus+, and built AI-assisted agents that converted and validated around 1,570 more.
+- **Arakoo.ai**, Software Engineer intern (June to August 2025). I deployed a Next.js app on Google Cloud Run, streamed encrypted screen and audio data in under 350 ms, and built a multi-agent system with a RAG pipeline on pgvector.
+- **Insight Scholar**, freelance full-stack developer (January to April 2025)
